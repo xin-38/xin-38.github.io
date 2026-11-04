@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com:xin-38/xin-38.github.io.git
+  repository: git@github.com:xin-38/xin-38.github.io.git
   branch: main
